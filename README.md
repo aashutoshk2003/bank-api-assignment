@@ -15,4 +15,4 @@
 3. Open browser or Postman to test the endpoints
 
 ## Time Taken
-~4-5 hours
+~3-4 hours
