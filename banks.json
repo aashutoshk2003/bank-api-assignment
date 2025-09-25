@@ -1,0 +1,18 @@
+[
+  {
+    "bank_id": 1,
+    "name": "HDFC Bank",
+    "branches": [
+      {"branch_id": 101, "branch": "MG Road", "ifsc": "HDFC0001"},
+      {"branch_id": 102, "branch": "Indiranagar", "ifsc": "HDFC0002"}
+    ]
+  },
+  {
+    "bank_id": 2,
+    "name": "SBI",
+    "branches": [
+      {"branch_id": 201, "branch": "Brigade Road", "ifsc": "SBI0001"},
+      {"branch_id": 202, "branch": "Whitefield", "ifsc": "SBI0002"}
+    ]
+  }
+]
